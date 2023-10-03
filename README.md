@@ -17,7 +17,19 @@ This Python program allows users to manage the stock of shoes in a warehouse. It
 
 1. Clone the repository to your local machine:
 
-```bash
+
 git clone https://github.com/MuzammilK123/ShoeWarehouseManagementSystem.git
 
 
+## Usage
+
+To use the Shoe Warehouse Management System, follow these steps:
+
+1. Launch the program.
+2. Choose from the available options in the menu to perform various tasks related to managing shoe stock.
+
+## Screenshots
+
+## Credits
+
+This project was created by Muzammil Kader. If you have any questions or suggestions, feel free to contact me at muzammilkader19@gmail.com.
