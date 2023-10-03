@@ -19,3 +19,5 @@ This Python program allows users to manage the stock of shoes in a warehouse. It
 
 ```bash
 git clone https://github.com/MuzammilK123/ShoeWarehouseManagementSystem.git
+
+
