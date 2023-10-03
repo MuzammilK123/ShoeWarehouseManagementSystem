@@ -30,6 +30,9 @@ To use the Shoe Warehouse Management System, follow these steps:
 
 ## Screenshots
 
+<img width="175" alt="image" src="https://github.com/MuzammilK123/ShoeWarehouseManagementSystem/assets/55388192/f252365e-607a-4d85-9d34-31855b1ee7a6">
+<img width="286" alt="image" src="https://github.com/MuzammilK123/ShoeWarehouseManagementSystem/assets/55388192/53e35aef-92c8-4c2a-afba-a3930fd91ce1">
+
 ## Credits
 
 This project was created by Muzammil Kader. If you have any questions or suggestions, feel free to contact me at muzammilkader19@gmail.com.
